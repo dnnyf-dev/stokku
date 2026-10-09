@@ -1,0 +1,13 @@
+{
+  "name": "stokku",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplikasi stok barang untuk UMKM: login, database SQLite, riwayat stok, dan notifikasi stok menipis.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --no-warnings server.js",
+    "test": "node --no-warnings test.js"
+  },
+  "engines": { "node": ">=22.5" },
+  "license": "MIT"
+}
